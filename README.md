@@ -2,7 +2,7 @@
 A simple and extensible Python project to **detect the object based on the colour** from an image or pixel value using OpenCV and NumPy.
 
 
-## 📑 Table of Contents
+## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Working](#project-working)
