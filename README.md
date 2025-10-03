@@ -5,12 +5,10 @@ A simple and extensible Python project to **detect the object based on the colou
 ## 📑 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
 - [Project Working](#project-working)
-- [Project Structure](#project-structure)
+- [Installation](#installation)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
-- [Author](#author)
 
 
 ## Features
