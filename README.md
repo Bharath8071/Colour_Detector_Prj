@@ -43,7 +43,7 @@ This project detects objects **based on their color** using your webcam in real-
 
 5. **Real-Time Output**  
    - The processed video is displayed live with the detected colored objects.  
-   - You can change the target color anytime by updating the `set_colour` module.
+   - You can change the target color anytime by updating the `getcolour` module.
 
 
 ## Installation
