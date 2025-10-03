@@ -49,7 +49,7 @@ This project detects objects **based on their color** using your webcam in real-
 ## Installation
 
  1. Clone the repository: git clone https://github.com/Bharath8071/Colour_Detector_Prj.git
- 2. Navigate to the project directory: cd Colour_Detector_Prj
+ 2. Navigate to the project directory: `cd Colour_Detector_Prj`
 
 
 ## Future Enhancements
